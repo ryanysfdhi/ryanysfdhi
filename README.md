@@ -1,12 +1,15 @@
 ## Hi there 👋
 
 <!--
-**ryanysfdhi/ryanysfdhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- I was born in Tehran, Iran, in late May 2007. After moving to Ankara, I took the English international curriculum, A-Levels, as well as the Turkish MEB curriculum. After graduating from Maya Anatolian and Science School, I went on to study computer science at Bilkent University. I am currently a freshman. 
 
 
-- FAQs: 
+- I was born in Tehran, Iran, in late May 2007. 
+- After moving to Ankara, I took the English international curriculum, A-Levels, as well as the Turkish MEB curriculum.
+- After graduating from Maya Anatolian and Science School, I went on to study computer science at Bilkent University. 
+- I am currently a freshman. 
+
+
+FAQs: 
 
 1- What languages do you speak? 
 "I can speak English, Turkish and Persian fluently. I also can speak upper-intermediate level Spanish". 
