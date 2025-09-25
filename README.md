@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-
+## Hi there 
 
 - I was born in Tehran, Iran, in late May 2007. 
 - After moving to Ankara, I took the English international curriculum, A-Levels, as well as the Turkish MEB curriculum.
